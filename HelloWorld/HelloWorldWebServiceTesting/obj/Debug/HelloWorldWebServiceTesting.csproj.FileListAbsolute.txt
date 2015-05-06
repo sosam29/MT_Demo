@@ -1,0 +1,6 @@
+C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\HelloWorldWebServiceTesting\bin\Debug\HelloWorldWebServiceTesting.exe.config
+C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\HelloWorldWebServiceTesting\bin\Debug\HelloWorldWebServiceTesting.exe
+C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\HelloWorldWebServiceTesting\bin\Debug\HelloWorldWebServiceTesting.pdb
+C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\HelloWorldWebServiceTesting\obj\Debug\HelloWorldWebServiceTesting.csprojResolveAssemblyReference.cache
+C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\HelloWorldWebServiceTesting\obj\Debug\HelloWorldWebServiceTesting.exe
+C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\HelloWorldWebServiceTesting\obj\Debug\HelloWorldWebServiceTesting.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\IAsyncDemo\bin\Debug\IAsyncDemo.exe.config
+C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\IAsyncDemo\bin\Debug\IAsyncDemo.exe
+C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\IAsyncDemo\bin\Debug\IAsyncDemo.pdb
+C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\IAsyncDemo\obj\Debug\IAsyncDemo.csprojResolveAssemblyReference.cache
+C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\IAsyncDemo\obj\Debug\IAsyncDemo.exe
+C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\IAsyncDemo\obj\Debug\IAsyncDemo.pdb
