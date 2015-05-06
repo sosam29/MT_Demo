@@ -1,5 +1,0 @@
-C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\MoreIAsyncwithCallBack\bin\Debug\MoreIAsyncwithCallBack.exe.config
-C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\MoreIAsyncwithCallBack\bin\Debug\MoreIAsyncwithCallBack.exe
-C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\MoreIAsyncwithCallBack\bin\Debug\MoreIAsyncwithCallBack.pdb
-C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\MoreIAsyncwithCallBack\obj\Debug\MoreIAsyncwithCallBack.exe
-C:\Users\Sam\documents\visual studio 2013\Projects\HelloWorld\MoreIAsyncwithCallBack\obj\Debug\MoreIAsyncwithCallBack.pdb
